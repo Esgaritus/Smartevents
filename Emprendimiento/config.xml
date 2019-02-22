@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.phonegap.example"
+    version   = "1.0.0">
+
+<name>Smart Events</name>
+
+<icon src="icon.jpg" gap:platform="android" gap:density="ldpi" />
+<gap:splash src="carga.png" gap:platform="android" gap:density="mdpi" />
+
+<description>
+Busca eventos cerca de tu zona.
+</description>
+
+<preference name="permissions" value="none"/>
+
+<author href="https://example.com" email="maloja120@hotmail.com">
+Edgar Martínez
+</author>
+
+</widget>
